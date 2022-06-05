@@ -6,3 +6,4 @@ Git test 20220605 hot-fix version
 Git test 20220605 333333
 # hot fix ending
 # add one new line
+# edit after configuring ssh key
